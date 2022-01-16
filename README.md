@@ -18,7 +18,8 @@
 First Download expo go App on your phone than copay the link ![()] and peast
 on expo go app Url section.
 
-![SuperSlot React Nataive NetService Provider]<a href="https://expo.dev/accounts/saurabh0613/projects/hathway_app/builds/bc06767d-ba26-499d-ab35-79ec91825760">
+![SuperSlot React Nataive NetService Provider]
+<a href="https://expo.dev/accounts/saurabh0613/projects/hathway_app/builds/bc06767d-ba26-499d-ab35-79ec91825760">Click Here</a>
 
 ## 1. Make sure you have NODE installed!
 
