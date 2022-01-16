@@ -3,7 +3,7 @@
 # SuperSlot React Native Coding Test
 
 ![SuperSlot React Nataive NetService Provider App](image1.jpg? "SuperSlot React Nataive NetService Provider App ")
-<img src="image2.jpg" width="1080" height="200">
+<img src="image2.jpg" width="360" height="1080">
 <!-- ![](image2.jpg?raw=true "SuperSlot React JS  Myntra Clone")</br>
 ![](image3.jpg?raw=true "SuperSlot React JS  Myntra Clone")
 ![](image4.jpg?raw=true "SuperSlot React JS  Myntra Clone")</br>
