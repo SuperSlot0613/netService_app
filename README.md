@@ -3,10 +3,10 @@
 # SuperSlot React Native Coding Test
 
 ![SuperSlot React Nataive NetService Provider App](image1.jpg? "SuperSlot React Nataive NetService Provider App ")
-![](image2.jpg?raw=true "SuperSlot React JS  Myntra Clone")</br>
-![](image3.jpg?raw=true "SuperSlot React JS  Myntra Clone")
-![](image4.jpg?raw=true "SuperSlot React JS  Myntra Clone")</br>
-![](image5.jpg?raw=true "SuperSlot React JS  Myntra Clone")</br>
+![image](image2.jpg?raw=true "SuperSlot React JS  Myntra Clone" {width=40px height=400px})</br>
+![image](image3.jpg?raw=true "SuperSlot React JS  Myntra Clone" {width=40px height=400px})
+![image](image4.jpg?raw=true "SuperSlot React JS  Myntra Clone" {width=40px height=400px})</br>
+![image](image5.jpg?raw=true "SuperSlot React JS  Myntra Clone" {width=40px height=400px})</br>
 
 
 ## To Run The App On Your Phone Screen
