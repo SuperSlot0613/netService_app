@@ -1,6 +1,3 @@
-# Solera Life Science Pvt.ltd
-
-# SuperSlot React Native Coding Test
 
 ![SuperSlot React Nataive NetService Provider App]</br>
 
